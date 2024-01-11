@@ -2,7 +2,7 @@
 bert-score
 blobfile
 datasets
-huggingface-hub==0.4.0
+# huggingface-hub==0.4.0
 mpi4py
 nltk
 numpy              
@@ -17,4 +17,4 @@ spacy
 tokenizers    
 torchmetrics  
 tqdm     
-transformers==4.18.0
+# transformers==4.18.0

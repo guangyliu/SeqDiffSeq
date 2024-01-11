@@ -49,7 +49,7 @@ ARGS=(--checkpoint_path ${CHECKPOINT_PATH}
     --weight_decay ${WEIGHT_DECAY}
     --predict_xstart True
     --train_txt_path ${TRAIN_TXT_PATH}
-    --dataset "iwslt14"
+    --dataset "yelp"
     --val_txt_path ${VAL_TXT_PATH}
     --config_name ${CONFIG_NAME}
     --init_pretrained ${INIT_PRETRAINED_MODEL}
